@@ -1,2 +1,3 @@
 # udd-billing-page
-Frontend practice from UI Design Daily
+
+Some frontend practice from [UI Design Daily](https://uidesigndaily.com/posts/figma-billing-page-payment-day-1585).
